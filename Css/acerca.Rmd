@@ -1,0 +1,105 @@
+---
+title: "Impacto Covid19 en el E-Commerce: América Latina"
+output:
+  html_document:
+    includes:
+      before_body: "_includes/acerca_before_body.html"
+      after_body: "_includes/acerca_after_body.html"
+---
+
+# Contexto
+
+Tras la declaración del Covid19 como pandemia por parte de la Organización Mundial de la Salud, se pueden distinguir sus efectos en tres grandes conglomerados: los gobiernos, las empresas y las personas vistas como  consumidores.
+
+En el frente gubernamental, en la región se ha acelerado el uso de herramientas de política pública, tales como paquetes de estímulos dirigidos a contener principalmente dos efectos adversos: liquidez en la economía, e incremento de la pobreza tras el desempleo subsecuente. En cuanto a la liquidez,  se han tomado medidas encaminadas a facilitar el acceso al crédito al igual que reducciones en la tasa de interés de intervención. Con relación al incremento en la pobreza, se implementaron partidas presupuestales encaminadas a brindar asistencia a la población más vulnerable vía subsidios, dotaciones sanitarias y elementos de subsistencia.
+
+Las empresas por su parte, han tenido diversas reacciones dependiendo de su actividad económica, pero se pueden dividir en tres grupos:
+
+
+* Industrias con dificultades para operar: transporte, turismo y entretenimiento.</li>
+* Industrias de actividades no esenciales:  moda y calzado, quienes han empezado  abrir y/o potenciar sus canales online con el fin de sortear las medidas de aislamiento social.</li>
+* Industrias en crecimiento: comidas, supermercados, restaurantes, estos últimos haciendo en algunos casos sinergias con empresas de repartición de domicilios para optimizar su operación.</li>
+
+Por su parte los consumidores, en situación de aislamiento, han tenido que verse enfrentados a dos situaciones en particular: o bien siguen consumiendo pero bienes de primera necesidad y algún tipo de entretenimiento en línea o consumen algún bien en específico (por ejemplo un traje deportivo para hacer ejercicio o utensilios para cocinar en casa). O bien consumen lo básico y ahorran o acuden a préstamos o subsidios ya que perdieron su empleo, o no tienen la caja suficiente para afrontar el aislamiento sin una fuente de ingresos.
+
+La interacción de estos grupos representa un reto en cuanto a definir si las disrupciones que se están viendo se mantendrán, mutarán a un nuevo equilibrio económico, o todo volverá a la normalidad una vez esta situación se supere. En los próximos meses el entorno económico se estará enfrentando a posibles cambios en los hábitos de consumo, o incluso nuevos. Los precios de las materias primas podrían alterarse, ya que es importante tener en cuenta que ya se empiezan a notar serios cambios en los precios de bienes básicos como los cereales, además del petróleo, donde tensiones complementarias a la pandemia están generando incertidumbre en los mercados, y para países de la región que dependen de un precio elevado del barril.
+
+En conclusión, la emergencia sanitaria mundial ha desencadenado un sinnúmero de efectos que el mundo está en proceso de entender. Sin embargo, desde ya se evidencia que el comportamiento de empresas y consumidores se está volcando al uso de alternativas digitales. El volumen de la migración de los canales de venta offline a canales online que esperábamos que ocurriera en 5 años está ocurriendo hoy, a pesar de barreras como la bancarización o el acceso a Internet.
+
+El panorama del E-commerce en los próximos meses es positivo, sin embargo debemos prestar atención los cambios en la conducta del consumidor (verticales), su poder adquisitivo como motor generador de demanda (empleo y acceso al crédito), las actividades económicas afectadas que tenían un peso importante a nivel de E-Commerce (Turismo y entretenimiento)  y la fortaleza de las finanzas públicas y los bancos centrales para sobrellevar los impactos  en la economía.
+
+<!-- Este reporte es un esfuerzo de estimar el impacto del coronavirus en el E-Commerce en aquellos países donde PayU tiene presencia en Latinoamérica. En el reporte se realiza un análisis de febrero a abril del 2020,  centrándonos en el comportamiento general del E-Commerce y adicional realizamos un análisis de aquellas industrias con mayor impacto;  con el objetivo de ser una  herramienta de consulta para que los negocios puedan tomar decisiones informadas. -->
+
+# Para qué creamos "Impacto Covid19 en el E-Commerce: América Latina"
+
+Con los datos de <a href="#SobrePayu"><b>PayU</b></a> y el análisis y visualización de <a href="#SobreFidelio"><b>FIDELIO</b></a> ha sido posible desarrollar este reporte. Su propósito es ayudar de manera gratuita a nuestros clientes, aliados y a la comunidad empresarial con una perspectiva y tendencias actualizadas del impacto de la pandemia Covid19 en el E-Commerce en América Latina. 
+
+
+Se busca que este reporte genere una comprensión sobre el entorno que ayude a proponer ideas que mitiguen el impacto económico del Covid19 a partir de la información de 115 millones de transacciones procesadas anualmente por PayU en más de 22 mil comercios en Argentina, Brasil, Colombia, Chile, México, Perú y Panamá.
+
+
+Desarrollamos este reporte con el objetivo de entregar información actualizada en manos de empresarios y formuladores de política pública, que les permita tomar decisiones basadas en información para hacer una gestión adecuada durante estos tiempos retadores. 
+
+
+# Los datos
+
+Los datos incluidos en esta visualización son un conjunto anonimizado de las transacciones de ventas online de más de 22 mil empresas latinoamericanas entre el 1 de Febrero y el 20 de Mayo de los años 2019 y 2020.
+
+Estos datos no representan las ventas totales en un mercado o categoría, y no es una herramienta de pronóstico. Si bien creemos que el acceso a datos y tendencias puede ayudar a nuestra comunidad a perseverar y prevalecer durante estos días de incertidumbre, recuerde que incluso las visualizaciones basadas en datos precisos no son exactas y deben usarse con discreción.
+
+Hemos tratado la mayor cantidad posible de valores atípicos y anomalías, y estamos comprometidos en trabajar para agregar más conjuntos de datos de aliados y asegurarnos que las tendencias se expliquen y comprendan. Aun así, es posible encontrar desviaciones asociadas con la representatividad de una industria en nuestro conjunto de datos. Si tienes alguna pregunta sobre una tendencia de datos o crees que has visto una anomalía, contáctanos en marketing@payulatam.com.co
+
+Trabajamos con nuestra comunidad de empresas y aliados para agregar continuamente datos actualizados y nuevas fuentes de datos. Esto nos ayudará a todos como comunidad a gestionar tiempos de incertidumbre y proporcionar una visión en evolución de la actividad empresarial regional para todos.
+
+<br>
+<br>
+
+### Transacciones / Ventas 
+
+<br>
+
+Las cifras mostradas corresponden al valor procesado por la pasarela de pagos en dólares (Total Payments Volume -TPV-). Se refiere al monto en valores del agregado de la cantidad de transacciones o ítems vendidos. No pretende establecer la cantidad de productos vendidos ni la cantidad de transacciones completadas sino el valor de los pagos procesados.
+
+# Acerca de
+
+### [PayU](https://www.payulatam.com/co/?utm_source=campaign&utm_medium=referral&utm_campaign=payucovid19) {#SobrePayu}
+
+
+PayU es líder en soluciones para el procesamiento de pagos online en mercados emergentes. Una empresa verdaderamente global que opera en 18 mercados y alberga 27 nacionalidades diferentes. Es la división fintech y de pagos electrónicos de Prosus, un grupo global de negocios en internet y uno de los mayores inversionistas de tecnología en el mundo. Opera e invierte en la mayoría de continentes y en mercados con potencial de crecimiento a largo plazo, Prosus construye compañías líderes de internet que empoderan a las personas y enriquecen a las comunidades. Ser parte de Prosus nos brinda la presencia y la experiencia para causar un impacto real.
+
+En PayU, nuestra visión es crear un mundo sin fronteras financieras donde todos puedan prosperar. Brindamos a las personas en los mercados de alto crecimiento servicios y productos financieros necesarios para progresar. Nuestra experiencia local en mercados emergentes nos permite ampliar el alcance de los servicios financieros. La base de nuestra estrategia es entender los mercados en los que operamos y las personas con quienes trabajamos.
+
+PayU cuenta con:
+
+* Más de 1.500 empleados
+* Más de 30% de crecimiento año a año
+* Más de 200 mil comercios en el mundo nos confían sus pagos
+* Más de 300 medios de pago locales
+
+<br>
+
+
+### [FIDELIO](http://fidelio.com.co/?utm_source=campaign&utm_medium=referral&utm_campaign=payucovid19) {#SobreFidelio}
+
+
+FIDELIO es una compañía de consultoría y desarrollo de soluciones en transformación digital. Entiende que lo digital es un asunto esencialmente humano, y que por eso, la perspectiva debe centrarse en las personas, en sus retos y problemas, pero sobre todo en sus propósitos, para desde ahí proponer soluciones. 
+
+Fidelio es un confidente, pragmático y dinámico, una consultora de negocios, un facilitador de transformaciones necesarias. 
+
+Estamos continuamente buscando aliados para contribuir con datos, ideas, conocimientos y artículos. Si deseas contribuir a este proyecto, contáctanos en: ecommerce@fidelio.com.co
+
+
+
+<!-- <br> -->
+<!-- <a href="index.html" class="botonMas"><button>Volver al reporte</button></a> -->
+<!-- <br> -->
+
+
+</div>
+ <!-- para que el mapa de imagen de los logos en el footer funcione en todas als resoluciones y no solo en la máxima -->
+<script src="./site_libs/jquery.rwdImageMaps.min.js">
+// para que el mapa de imagen de los logos en el footer funcione en todas als resoluciones y no solo en la máxima
+$(document).ready(function(e) {
+    $('img[usemap]').rwdImageMaps();
+});
+</script>
