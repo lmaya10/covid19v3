@@ -33,6 +33,64 @@ p{
 color: #979797;
 }
 
+
+/* -------------- Cambios Laura  --------------  */
+
+/*Subir primer parrafo*/
+
+.container-fluid.main-container > div:nth-of-type(2) {
+  margin-top: -200px;
+}
+
+/*Alinear*/
+ol, ul {
+  padding: 0 10%;
+}
+
+.main-container > .row {
+  padding: 0 10%;
+}
+
+/*Acomdar la imagen redonda*/
+
+div#comportamiento-de-los-compradores {
+  position: relative;
+}
+
+#comportamiento-de-los-compradores > div:first-of-type {
+  width: 60%;
+}
+
+#comportamiento-de-los-compradores > div:nth-of-type(3) img {
+  width: 30%;
+  position: absolute;
+  top: 160px;
+  right: 10%;
+}
+
+/*Acomodar la grafica en la viñeta*/
+#comportamiento-de-los-compradores .col-md-8.ocultarEnMovil {
+  margin-top: -550px;
+}
+
+/*Imagenes iniciativas payu*/
+#iniciativas-payu > .row {
+  display: flex;
+  justify-content: space-between;
+}
+
+div#iniciativas-payu > .row >.col-md-4 > p:nth-of-type(2), div#iniciativas-payu > .row >.col-md-4 > h3:nth-of-type(1) {
+  padding: 10px;
+}
+
+#iniciativas-payu .col-md-4 {
+  background: white;
+  padding: 0px;
+  border-radius: 20px;
+  margin: 1%;
+}
+
+
 /* -------------- Header  --------------  */
 
 /* Borrar el título que genera RMarkdown */
@@ -120,7 +178,10 @@ color: #5c5c5c !important;
 text-align: left !important;
 }
 
-#crecimiento-y-compradores, #crecimiento-mensual-por-sector-2020-vs-2019-de-enero-a-julio-durante-covid, #iniciativas-payu {
+.container-fluid.main-container > div:nth-of-type(3), 
+#comportamiento-de-los-compradores, 
+#crecimiento-mensual-por-sector-2020-vs-2019-de-enero-a-julio-durante-covid-19,
+#iniciativas-payu {
 background-color: #f4f4f4;
 }
 
